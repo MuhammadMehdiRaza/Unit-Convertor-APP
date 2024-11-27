@@ -1,4 +1,4 @@
-package first.aapp.unitconverter
+package eu.tutorials.unitconverter
 
 import android.os.Bundle
 import android.widget.Toast
